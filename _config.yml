@@ -2,7 +2,7 @@
 
 # Name of website
 title: From seconds to seasons
-bigimg: [{src: "/img/Hulsea.jpg", desc: "Alpine Gold, Eastern Sierra"}]
+bigimg: /img/Hulsea.jpg
 
 # Short description of your site
 url: "http://jepsonnomad.github.io"
@@ -77,7 +77,7 @@ social-network-links:
   reddit: JepsonNomad
 #  linkedin: daattali
 #  xing: yourname
-  stackoverflow: "/6588339/jepsonnomad"
+#  stackoverflow: "/6588339/jepsonnomad"
 #  snapchat: deanat78
   instagram: JepsonNomad
 #  youtube: user/deanat78
@@ -94,8 +94,7 @@ share-links-active:
   twitter: true
   instagram: true
   reddit: true
-  stackoverflow: false
-  
+
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
