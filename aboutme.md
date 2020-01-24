@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Where to begin...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Christian John. I'm a landscape ecologist investigating the role of spatial dynamics in resources for mobile herbivores. Finding this small corner of the research world has been a long process, starting with a biology lab in high school that mostly consisted of catching salamanders, plus a simple statistical analysis or two. Since then, I have dabbled in skin cancer, hummingbirds, and archaeology. Mostly, however, I've spent my time following ungulates around one corner or another of North America. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I:
+- Hike a lot
+- Take a ton of pictures
+- Work on the computer more than I'd like to
 
-What else do you need?
+| ![](/img/trochaTrogon.jpg) | 
+|:--:| 
+| *Me at the top of a small waterfall near Manu National Park* |
 
-### my history
+If I'm not working, I'm probably making coffee, running, or thinking about sailing. No, I don't have a sailboat. Yes, I'll take your grandma's old wooden sunfish off her hands for her.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

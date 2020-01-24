@@ -1,8 +1,8 @@
 # --- General options --- #
 
 # Name of website
-title: Seconds to Centuries
-bigimg: [{src: "/img/Hulsea.jpg", desc: "Hulsea blooming above Virginia Lakes, Eastern Sierra"}]
+title: From seconds to seasons
+bigimg: [{src: /img/Hulsea.jpg, desc: "Hulsea blooming above Virginia Lakes, Eastern Sierra"}]
 
 # Short description of your site
 url: "http://jepsonnomad.github.io"
