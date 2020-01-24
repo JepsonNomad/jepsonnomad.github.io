@@ -2,7 +2,7 @@
 
 # Name of website
 title: From seconds to seasons
-bigimg: [{src: /img/Hulsea.jpg, desc: "Hulsea blooming above Virginia Lakes, Eastern Sierra"}]
+bigimg: [{src: "/img/Hulsea.jpg", desc: "Alpine Gold, Eastern Sierra"}]
 
 # Short description of your site
 url: "http://jepsonnomad.github.io"
@@ -90,6 +90,7 @@ share-links-active:
   twitter: true
   instagram: true
   reddit: true
+  stackoverflow: false
   
 
 # How to display the link to the website in the footer
