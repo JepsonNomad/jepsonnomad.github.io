@@ -2,7 +2,7 @@
 
 # Name of website
 title: From seconds to seasons
-page-img: /img/Hulsea.jpg
+page-img: "/img/Hulsea.jpg"
 
 # Short description of your site
 url: "http://jepsonnomad.github.io"
