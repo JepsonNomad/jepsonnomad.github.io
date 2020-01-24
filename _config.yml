@@ -2,7 +2,6 @@
 
 # Name of website
 title: From seconds to seasons
-bigimg: "/img/Hulsea.jpg" : "Alpine gold"
 
 # Short description of your site
 url: "http://jepsonnomad.github.io"
@@ -21,6 +20,7 @@ navbar-links:
   Research:
     - Sierra bighorn: "https://wildlife.ca.gov/Conservation/Mammals/Bighorn-Sheep/Sierra-Nevada/Recovery-Program"
     - Arctic phenology: "http://www.applesproject.org/"
+    - Footage from the field: "https://vimeo.com/136984369"
   Tutorials:
     - HD Maps with EarthEngine: "http://code.earthengine.com"
     - Intro to ModisTools: "http://modistools.com"
