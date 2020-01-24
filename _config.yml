@@ -9,6 +9,8 @@ url: "http://jepsonnomad.github.io"
 baseurl: ""
 description: Exploring herbivore movement through four dimensions
 
+
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -31,6 +33,8 @@ avatar: "/img/Lookout_MtDoom_2.jpg"
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
+
+
 
 # --- Background colour/image options --- #
 
