@@ -1,10 +1,13 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Seconds to Centuries
+bigimg: [{src: "/img/Hulsea.jpg", desc: "Hulsea blooming above Virginia Lakes, Eastern Sierra"}]
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+url: "http://jepsonnomad.github.io"
+baseurl: ""
+description: Exploring herbivore movement through four dimensions
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
