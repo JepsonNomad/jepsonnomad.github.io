@@ -13,11 +13,12 @@ description: Exploring herbivore movement through four dimensions
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me:
+    - Quick Bio: "aboutme"
+    - CV: "CV"
   Research:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - Publications: "http://deanattali.com"
+    - Sierra bighorn: "http://deanattali.com/beautiful-jekyll/"
+    - Arctic phenology: "http://www.markdowntutorial.com/"
   Tutorials:
     - HD Maps with EarthEngine:
     - Intro to ModisTools:
