@@ -22,7 +22,7 @@ navbar-links:
     - Arctic phenology: "http://www.applesproject.org/"
     - Footage from the field: "https://vimeo.com/136984369"
   Tutorials:
-    - HD Maps with EarthEngine: "http://code.earthengine.com"
+    - HD Maps with EarthEngine: "/tutorials/EE_Maps.html"
     - Intro to ModisTools: "/tutorials/MODISTools_Intro.html"
     - Intro to Rasters: "/tutorials/001_IntroToRasters.html"
 
