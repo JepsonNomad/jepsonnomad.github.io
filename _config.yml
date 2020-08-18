@@ -19,7 +19,7 @@ navbar-links:
     - CV: "CV"
   Research:
     - Sierra bighorn: "https://wildlife.ca.gov/Conservation/Mammals/Bighorn-Sheep/Sierra-Nevada/Recovery-Program"
-    - Arctic phenology: "http://www.applesproject.org/"
+    - Arctic phenology: "/research/AAAR-RegionalVariation.html"
     - Footage from the field: "https://vimeo.com/136984369"
   Tutorials:
     - HD Maps with EarthEngine: "/tutorials/EE_Maps.html"
