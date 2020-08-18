@@ -4,6 +4,7 @@ layout: page
 ---
   
 *We must accept that time is not completely separate from and independent of space, but is combined with it to form an object called spacetime.*  
+  
 **-Stephen Hawking, in** ***A Brief History of Time***
 
 <iframe width="560" height="380" src="/mov/TentMotion.mp4" frameborder="0" allowfullscreen></iframe>
@@ -16,9 +17,9 @@ My research focuses on relationships among plants, animals, and the role of clim
 I'm particularly interested in the importance of spacetime in shaping ecological patterns and processes. At the end of the day, I like to study animal movement and migration, and the factors that give rise to these behaviors.
 
 In the past, I have contributed to work ranging from skin cancer to archaeology, but nowadays my work is pretty much limited to climate change ecology. For a complete list of my publications, refer to my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=R2rrihIAAAAJ&view_op=list_works&sortby=pubdate), and for more detail on selected work, check out the links in the Research dropdown menu above.
-
+  
 ***
-
+  
 *“Where am I?” said Billy Pilgrim.*  
   
 *“Trapped in another blob of amber, Mr. Pilgrim. We are where we have to be just now – three hundred million miles from Earth, bound for a time warp which will get us to Tralfamadore in hours rather than centuries.”*  

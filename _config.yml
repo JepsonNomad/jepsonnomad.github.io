@@ -21,7 +21,7 @@ navbar-links:
     - Research main: "researchMain"
     - Sierra bighorn: "https://wildlife.ca.gov/Conservation/Mammals/Bighorn-Sheep/Sierra-Nevada/Recovery-Program"
     - Arctic phenology: "/research/AAAR-RegionalVariation.html"
-    - Footage from the field: "https://vimeo.com/136984369"
+    - Footage from the field: "/research/KangerFootage"
   Tutorials:
     - HD Maps with EarthEngine: "/tutorials/EE_Maps.html"
     - Intro to ModisTools: "/tutorials/MODISTools_Intro.html"
