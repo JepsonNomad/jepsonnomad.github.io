@@ -10,7 +10,7 @@ layout: page
 For a complete list of my publications, refer to my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=R2rrihIAAAAJ&view_op=list_works&sortby=pubdate), and for more detail on selected work, check out the links in the Research dropdown menu above. 
   
 <iframe width="560" height="380" src="/mov/BA-05.mp4" frameborder="0" allowfullscreen></iframe>
-
+  
 My research focuses on relationships among plants, animals, and the role of climate on these interactions. I combine detailed field observations with remote sensing data (i.e. satellite and time-lapse cameras) to look at long-term processes in hyper-speed. I'm particularly interested in the importance of spacetime in shaping ecological patterns and processes. At the end of the day, I like to study animal movement and migration, and the factors that give rise to these behaviors.  
   
 For example: Can you find the bighorn sheep moving across the mountain in this time-lapse video? We're looking at 20 real-life minutes compressed into 30 seconds of video time, so they appear to move pretty fast - you'll have to look closely!  
