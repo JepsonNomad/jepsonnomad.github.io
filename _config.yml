@@ -108,7 +108,7 @@ url-pretty: "JepsonNomad.github.io"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "G-04BP96L8XM"
 
 # Google Tag Manager ID
 #gtm: ""
