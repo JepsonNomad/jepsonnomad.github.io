@@ -23,7 +23,7 @@ navbar-links:
     - Arctic phenology: "/research/AAAR-RegionalVariation.html"
     - Footage from the field: "/research/KangerFootage"
   Tutorials:
-    - HD Maps with EarthEngine: "/tutorials/EE_Maps.html"
+    - HD Maps with EarthEngine and R: "/tutorials/EE_Maps2.html"
     - Intro to ModisTools: "/tutorials/MODISTools_Intro.html"
     - Intro to Rasters: "/tutorials/001_IntroToRasters.html"
     - Danger! Reprojecting Raster Datasets: "/tutorials/reprojectAdNauseum.html"
