@@ -19,7 +19,7 @@ navbar-links:
     - CV: "CV"
   Research:
     - Research main: "researchMain"
-    - Sierra bighorn: "https://wildlife.ca.gov/Conservation/Mammals/Bighorn-Sheep/Sierra-Nevada/Recovery-Program"
+    - Time-lapse in ecology: "/research/timelapse"
     - Arctic phenology: "/research/AAAR-RegionalVariation.html"
     - Footage from the field: "/research/FootageFromTheField"
   Tutorials:
