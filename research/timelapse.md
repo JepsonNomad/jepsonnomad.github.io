@@ -1,5 +1,6 @@
 ---
-title: "Time-lapse photography"
+title: ""
+subtitle: "Time-lapse photography"
 layout: page
 ---
   

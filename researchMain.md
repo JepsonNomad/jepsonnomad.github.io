@@ -1,5 +1,6 @@
 ---
-title: "Research"
+title: ""
+subtitle: "Research"
 layout: page
 ---
   

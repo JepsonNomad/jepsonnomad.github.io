@@ -22,6 +22,7 @@ navbar-links:
     - Time-lapse in ecology: "/research/timelapse"
     - Arctic phenology: "/research/AAAR-RegionalVariation.html"
     - Footage from the field: "/research/FootageFromTheField"
+  Publications: "publications.md"
   Tutorials:
     - HD Maps with EarthEngine and R: "/tutorials/EE_Maps.html"
     - Intro to ModisTools: "/tutorials/MODISTools_Intro.html"
