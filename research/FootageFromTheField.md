@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-subtitle: "Footage from the field""
+subtitle: "Footage from the field"
 ---
 
 A few time-lapses from my work in the eastern Sierra (CA):
