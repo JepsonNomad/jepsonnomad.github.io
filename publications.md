@@ -18,7 +18,7 @@ layout: page
 
 ## 2019
 
-Post, E., Beyen, E., Bøving, P., Higgins, R.C., **John, C.**, Kerby, J., Pedersen, C., and Watts, D. 2019. Unusual late July observation of a fledgling Lapland longspur in low arctic Greenland following the late spring of 2018. *Arctic Science*. 5(3) 161-166. [article](https://cdnsciencepub.com/doi/full/10.1139/as-2018-0031)
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="57755814"></div>Post, E., Beyen, E., Bøving, P., Higgins, R.C., **John, C.**, Kerby, J., Pedersen, C., and Watts, D. 2019. Unusual late July observation of a fledgling Lapland longspur in low arctic Greenland following the late spring of 2018. *Arctic Science*. 5(3) 161-166. [article](https://cdnsciencepub.com/doi/full/10.1139/as-2018-0031)
 
 ## From my pre-ecology days
 
