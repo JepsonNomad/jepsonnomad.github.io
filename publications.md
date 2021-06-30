@@ -14,7 +14,7 @@ layout: page
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="74796825"></div>Myers-Smith, I.H., Kerby, J.T., Phoenix, G.K., Bjerke, J.W., Epstein, H.E., Assmann, J.A., **John, C.**, and 34 others. 2020. Complexity revealed in the greening of the Arctic. *Nature Climate Change*. 10(2) 106-117. [abstract; contact for article](https://www.nature.com/articles/s41558-019-0688-1)
 
-</script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="88406607"></div>**John, C.**, Miller, D., and Post, E. 2020. Regional variation in green-up timing along a caribou migratory corridor: Spatial associations with snowmelt and temperature. *Arctic, Antarctic, and Alpine Research*. 52(1) 416-423. [article](https://www.tandfonline.com/doi/full/10.1080/15230430.2020.1796009)
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="88406607"></div>**John, C.**, Miller, D., and Post, E. 2020. Regional variation in green-up timing along a caribou migratory corridor: Spatial associations with snowmelt and temperature. *Arctic, Antarctic, and Alpine Research*. 52(1) 416-423. [article](https://www.tandfonline.com/doi/full/10.1080/15230430.2020.1796009)
 
 ## 2019
 
