@@ -20,7 +20,7 @@ navbar-links:
   Research:
     - Research main: "researchMain"
     - Time-lapse in ecology: "/research/timelapse"
-    - Arctic phenology: "/research/AAAR-RegionalVariation.md"
+    - Arctic phenology: "/research/AAAR-RegionalVariation"
     - Footage from the field: "/research/FootageFromTheField"
   Publications: "publications"
   Tutorials:
