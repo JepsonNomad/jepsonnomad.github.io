@@ -8,7 +8,7 @@ layout: page
   
 **-Stephen Hawking, in** ***A Brief History of Time***
 
-For a complete list of my publications, refer to my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=R2rrihIAAAAJ&view_op=list_works&sortby=pubdate), and for more detail on selected work, check out the links in the Research dropdown menu above. 
+For a complete list of my publications, refer to my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=gPEuWbUAAAAJ&view_op=list_works&sortby=pubdate), and for more detail on selected work, check out the links in the Research dropdown menu above. 
   
 <iframe width="560" height="380" src="/mov/BA-05.mp4" frameborder="0" allowfullscreen></iframe>
   
