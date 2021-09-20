@@ -10,7 +10,7 @@ layout: page
 
 **John, C.** and Post, E. 2021. Seasonality, niche management, and vertical migration in landscapes of relief. *Ecography*. In press. [article](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05774)
 
-Contrasting dynamical responses of sympatric caribou and muskoxen to winter weather and earlier spring green-up in the Arctic</a>Eikelenboom, M., Higgings, R.C., **John, C.**, Kerby, J., Forchhammer, M.C., and Post, E. 2021. Contrasting dynamical responses of sympatric caribou and muskoxen to winter weather and earlier spring green-up in the Arctic. *Food Webs*. 27 e00196. [abstract; contact for article](https://www.sciencedirect.com/science/article/abs/pii/S2352249621000094)
+Eikelenboom, M., Higgings, R.C., **John, C.**, Kerby, J., Forchhammer, M.C., and Post, E. 2021. Contrasting dynamical responses of sympatric caribou and muskoxen to winter weather and earlier spring green-up in the Arctic. *Food Webs*. 27 e00196. [abstract; contact for article](https://www.sciencedirect.com/science/article/abs/pii/S2352249621000094)
 
 ## 2020
 
