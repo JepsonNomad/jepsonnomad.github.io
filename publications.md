@@ -26,4 +26,4 @@ Post, E., Beyen, E., Bøving, P., Higgins, R.C., **John, C.**, Kerby, J., Peders
 
 Blazanin, N., Son, J., Craig-Lucas, A., **John, C.**, Breech, K., Son, J., Podolsky, M., and Glick, A.B. 2017. ER Stress and Distinct Outputs of the IRE1α RNase Control Proliferation and Senescence in Response to Oncogenic Ras. *Proceedings of the National Academy of Sciences*.  114(37) 9900-9905. [article](https://www.pnas.org/content/114/37/9900)
 
-Genetic and Pharmacological Analysis Identifies a Physiological Role for the AHR in Epidermal Differentiation</a>Van den Bogaard, E.H., Podolsky, M.A., Smits, J.P., Cui, X., **John, C.**, and 6 others. 2015. Genetic and Pharmacological Analysis Identifies a Physiological Role for the AHR in Epidermal Differentiation. *Journal of Investigative Dermatology*. 135(5) 1320-28. [article](https://pubmed.ncbi.nlm.nih.gov/25602157/)
+Van den Bogaard, E.H., Podolsky, M.A., Smits, J.P., Cui, X., **John, C.**, and 6 others. 2015. Genetic and Pharmacological Analysis Identifies a Physiological Role for the AHR in Epidermal Differentiation. *Journal of Investigative Dermatology*. 135(5) 1320-28. [article](https://pubmed.ncbi.nlm.nih.gov/25602157/)
