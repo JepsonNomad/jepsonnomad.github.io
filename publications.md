@@ -14,8 +14,8 @@ John, C. and Post, E. 2022. Projected bioclimatic distributions in Nearctic Bovi
 
 John, C. and Post, E. 2022. Seasonality, niche management, and vertical migration in landscapes of relief. *Ecography*. 2022:e05774. [article](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05774)
 
-<img src="/img/pubs/Ecography2022a.jpg" alt="Animals migrate vertically on mountains, continental slopes, and everywhere between." width="500" height="500">
-<img src="/img/pubs/Ecography2022b.jpg" alt="Landscapes of relief shape the spatial pattern of seasons." width="500" height="500">
+<img src="/img/pubs/Ecog2022a.jpg" alt="Animals migrate vertically on mountains, continental slopes, and everywhere between." width="500" height="500">
+<img src="/img/pubs/Ecog2022b.jpg" alt="Landscapes of relief shape the spatial pattern of seasons." width="500" height="500">
 
 ## 2021
 
