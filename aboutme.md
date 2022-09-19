@@ -4,7 +4,7 @@ title: ""
 subtitle: About me
 ---
 
-My name is Christian John. I'm a landscape ecologist investigating the role of spatial dynamics in resources for mobile herbivores. Finding this small corner of the research world has been a long process, starting with a biology lab in high school that mostly consisted of catching salamanders, plus a simple statistical analysis or two. Since then, I have dabbled in skin cancer, hummingbirds, and archaeology. Mostly, however, I've spent my time following ungulates around one corner or another of North America. 
+My name is Christian John. I'm a landscape ecologist investigating the role of climate change on seasonal ecological processes. Finding this small corner of the research world has been a long adventure, starting with a biology lab in high school that mostly consisted of catching salamanders, plus a simple statistical analysis or two. Since then, I have dabbled in skin cancer, hummingbirds, and archaeology. Most of my work now involves combining detailed field observations with long-term remote sensing products (e.g. satellites, drones, and time-lapse cameras) to understand how populations, communities, and ecosystems change in space and time.
 
 I:
 - Hike a lot
