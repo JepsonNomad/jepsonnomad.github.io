@@ -10,18 +10,18 @@ layout: page
 
 For a complete list of my publications, refer to my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VPd60tMAAAAJ&view_op=list_works&sortby=pubdate), and for more detail on selected work, check out the links in the Research dropdown menu above. 
   
-<iframe width="560" height="380" src="/mov/BA-05.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="190" src="/mov/BA-05.mp4" frameborder="0" allowfullscreen></iframe>
   
-My research focuses on relationships among plants, animals, and the role of climate on these interactions. I combine detailed field observations with remote sensing data (i.e. satellite and time-lapse cameras) to look at long-term processes in hyper-speed. I'm particularly interested in the importance of spacetime in shaping ecological patterns and processes. At the end of the day, I like to study animal movement and migration, and the factors that give rise to these behaviors.  
-  
+My research focuses on relationships among terrain, plants, and animals, and how climate governs these interactions. I combine detailed field observations with remote sensing data (i.e. satellite, drone, and time-lapse cameras) to look at long-term processes in hyper-speed. I'm particularly interested in the way that ecological patterns unfold across spacetime. At the end of the day, I like to study things like seasons, movement, and long-term change.
+
 For example: Can you find the bighorn sheep moving across the mountain in this time-lapse video? We're looking at 20 real-life minutes compressed into 30 seconds of video time, so they appear to move pretty fast - you'll have to look closely!  
   
-<iframe width="560" height="380" src="/mov/BighornMvmt.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="280" height="190" src="/mov/BighornMvmt.mp4" frameborder="0" allowfullscreen></iframe>
   
 In the past, I have contributed to work ranging from skin cancer to archaeology, but nowadays my work is pretty much limited to climate change ecology.  
   
-<iframe width="560" height="380" src="/mov/Raeveso.mp4" frameborder="0" allowfullscreen></iframe>
-  
+<img src="/img/camWork.jpg" alt="Working on the time-lapse camera network in the Eastern Sierra." height="350">
+
 ***
   
 *“Where am I?” said Billy Pilgrim.*  
