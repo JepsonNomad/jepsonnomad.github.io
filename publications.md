@@ -4,7 +4,7 @@ subtitle: "Publications"
 layout: page
 ---
 
-The following is a list of work I led. For my full list of publications, refer to my [CV](CV.md).
+The following is a summary of work I led. The most up-to-date list of my publications can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VPd60tMAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## 2022
 
