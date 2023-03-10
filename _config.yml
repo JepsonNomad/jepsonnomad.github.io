@@ -73,22 +73,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "cjohn@ucdavis.edu"
-#  facebook: deanattali
+  email: "cjohn@ucsb.edu"
   github: JepsonNomad
   twitter: JepsonNomad
-  reddit: JepsonNomad
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "/6588339/jepsonnomad"
-#  snapchat: deanat78
   instagram: JepsonNomad
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -96,7 +84,6 @@ share-links-active:
   stackoverflow: true
   twitter: true
   instagram: true
-  reddit: true
 
 
 # How to display the link to the website in the footer
