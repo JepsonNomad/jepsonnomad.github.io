@@ -13,7 +13,7 @@ I:
 
 | ![](/img/trochaTrogon.jpg) | 
 |:--:| 
-| *Me at the top of a small waterfall near Manu National Park* |
+| *Looking for birds atop a small waterfall near Manu National Park* |
 
 If I'm not working, I'm probably making coffee, running, or thinking about sailing. No, I don't have a sailboat. Yes, I'll take your grandma's old wooden sunfish off her hands for her.
 
