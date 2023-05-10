@@ -4,7 +4,7 @@ subtitle: "Land-sea connections"
 layout: page
 ---
 
-<img src="/img/NorthShore.jpeg" alt="North shore lagoons of Moorea." height="350">
+<img src="/img/northShore.jpg" alt="North shore lagoons of Moorea." height="350">
   
 Coral reefs protect tens of thousands of miles of coastline, and provide food and income subsidies to over half a billion people globally. Corals (small, primitive animal species that live in colonies) get energy from a symbiotic algae in a form of symbiosis, but their cordial relationship can be upset by heat stress, sedimentation, and nutrient pollution. In this project, I'm using public and proprietary satellite images, alongside fine-scale topography data and in-situ rainfall measurements to uncover how rainfall and land use change drive spatiotemporal variation in sedimentation and nutrient pollution in the lagoons of Moorea, French Polynesia.
 
