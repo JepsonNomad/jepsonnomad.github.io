@@ -18,7 +18,8 @@ navbar-links:
     - Quick Bio: "aboutme"
     - CV: "CV"
   Research:
-    - Research main: "researchMain"
+    - Research main: "/research/researchMain"
+    - Land-sea connections: "/research/LandSea"
     - Time-lapse in ecology: "/research/timelapse"
     - Arctic phenology: "/research/AAAR-RegionalVariation"
     - Footage from the field: "/research/FootageFromTheField"
