@@ -8,6 +8,8 @@ layout: page
 
 <div style="text-align: right"> <i> -Stephen Hawking, in </i> A Brief History of Time </div>
 
+---
+
 For a complete list of my publications, refer to my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VPd60tMAAAAJ&view_op=list_works&sortby=pubdate), and for more detail on selected work, check out the links in the Research dropdown menu above. 
   
 <img src="/img/CN-14HQ.gif" alt="Time-lapse of Alpine gold flowering in the high Sierra." height="350">
@@ -26,7 +28,7 @@ In the past, I have contributed to work ranging from skin cancer to archaeology,
 
 <img src="/img/camWork.jpg" alt="Working on the time-lapse camera network in the Eastern Sierra." height="350">
 
-***
+---
   
 *“Where am I?” said Billy Pilgrim.*  
   
@@ -36,4 +38,5 @@ In the past, I have contributed to work ranging from skin cancer to archaeology,
   
 *“It would take another Earthling to explain it to you. Earthlings are the great explainers, explaining why this event is structured as it is, telling how other events may be achieved or avoided. I am a Tralfamadorian, seeing all time as you might see a stretch of the Rocky Mountains. All time is all time. It does not change. It does not lend itself to warnings or explanations. It simply is. Take it moment by moment, and you will find that we are all, as I’ve said before, bugs in amber.”*  
   
-**-Kurt Vonnegut, in** ***Slaughterhouse Five***
+<div style="text-align: right"> <i> -Kurt Vonnegut, in </i> Slaughterhouse Five </div>
+
