@@ -6,6 +6,12 @@ layout: page
 
 The following is a summary of work I led. The most up-to-date list of my publications can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VPd60tMAAAAJ&view_op=list_works&sortby=pubdate).
 
+## 2023
+
+John, C., Kerby, J.T., Stephenson, T.R., and Post, E. 2022. Fine-scale landscape phenology revealed through time-lapse imagery: implications for conservation and management of an endangered migratory herbivore. *Remote Sensing in Ecology and Conservation*. In press. [article](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.331)
+
+<img src="/img/pubs/RSEC2023.jpg" alt="Comparison of green-up dates derived from time-lapse and satellite sensors." height="250">
+
 ## 2022
 
 John, C. and Post, E. 2022. Projected bioclimatic distributions in Nearctic Bovidae signal the potential for reduced overlap with protected areas. *Ecology and Evolution*. 12e9189. [article](https://onlinelibrary.wiley.com/doi/10.1002/ece3.9189)
