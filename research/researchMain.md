@@ -12,7 +12,7 @@ For a complete list of my publications, refer to my [Google Scholar page](https:
   
 <img src="/img/CN-14HQ.gif" alt="Time-lapse of Alpine gold flowering in the high Sierra." height="350">
   
-My research focuses on relationships among terrain, plants, and animals, and how people modify these interactions. I combine detailed field observations with remote sensing data (i.e. satellite, drone, and time-lapse cameras) to look at long-term processes in hyper-speed. I'm particularly interested in the way that ecological patterns unfold across spacetime. At the end of the day, I like to study things like seasons, movement, and long-term change.
+**My research focuses on relationships among landscapes, climate, and communities, and explores how people modify these interactions.** I combine detailed field observations with remote sensing data (i.e. satellite, drone, and time-lapse cameras) to look at long-term processes in hyper-speed. I'm particularly interested in the way that ecological patterns unfold across spacetime. At the end of the day, I like to study things like seasons, movement, and long-term change.
 
 Currently, I'm working on a project that connects land use and land use change to the health of coral reef ecosystems. This involves using a lot of high-res satellite pictures to identify where and when deforestation and development occur. By pairing land use maps with simulation models, we can estimate how rainwater runoff transports sediments and nutrients into the lagoons where corals live. Since corals and their symbiotic algae can be sensitive to sedimentation and nutrient pollution, understanding how humans use landscapes upstream of reef ecosystems can help inform coral reef conservation efforts.
 
