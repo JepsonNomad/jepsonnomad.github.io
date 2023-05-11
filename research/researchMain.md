@@ -6,7 +6,7 @@ layout: page
   
 *We must accept that time is not completely separate from and independent of space, but is combined with it to form an object called spacetime.*  
 
-<div style="text-align: right"> <i>-Stephen Hawking, in</i> A Brief History of Time </div>
+<div style="text-align: right"> <i> -Stephen Hawking, in </i> A Brief History of Time </div>
 
 For a complete list of my publications, refer to my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VPd60tMAAAAJ&view_op=list_works&sortby=pubdate), and for more detail on selected work, check out the links in the Research dropdown menu above. 
   
