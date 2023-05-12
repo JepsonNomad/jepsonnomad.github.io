@@ -12,4 +12,5 @@ Coral reefs protect tens of thousands of miles of coastline, and provide food an
 
 By tracking changes in forest, agricultural, and developed land, we can reveal how human activities affect land-sea connections. And, because some satellite records date back to the late 1970's and early 80's, we can get an idea of how land use has changed over the course of decades. This, taken together with historical oceanographic and weather data, will allow us to better understand how multiple coral stressors interact, and ultimately predict where stressful conditions will emerge for reefs in the future.
 
+<iframe src="https://player.vimeo.com/video/825635067" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
