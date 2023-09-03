@@ -6,7 +6,7 @@ layout: page
 
 The following is a summary of work I led. The most up-to-date list of my publications, including coauthor contributions, can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VPd60tMAAAAJ&view_op=list_works&sortby=pubdate).
 
-## 2023
+### 2023
 
 John, C., Kerby, J.T., Stephenson, T.R., and Post, E. 2022. Fine-scale landscape phenology revealed through time-lapse imagery: implications for conservation and management of an endangered migratory herbivore. *Remote Sensing in Ecology and Conservation*. In press. [article](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.331)
 
