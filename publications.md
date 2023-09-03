@@ -4,7 +4,7 @@ subtitle: "Publications"
 layout: page
 ---
 
-The following is a summary of work I led. The most up-to-date list of my publications can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VPd60tMAAAAJ&view_op=list_works&sortby=pubdate).
+The following is a summary of work I led. The most up-to-date list of my publications, including coauthor contributions, can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VPd60tMAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## 2023
 
