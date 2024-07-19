@@ -14,7 +14,7 @@ John, C., Avgar, T., Rittger, K., Smith, J.A., Stephenson, L.W., Stephenson, T.R
 
 ### 2023
 
-John, C., Kerby, J.T., Stephenson, T.R., and Post, E. 2022. Fine-scale landscape phenology revealed through time-lapse imagery: implications for conservation and management of an endangered migratory herbivore. *Remote Sensing in Ecology and Conservation*. In press. [article](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.331)
+John, C., Kerby, J.T., Stephenson, T.R., and Post, E. 2022. Fine-scale landscape phenology revealed through time-lapse imagery: implications for conservation and management of an endangered migratory herbivore. *Remote Sensing in Ecology and Conservation*. 9(5). [article](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.331)
 
 <img src="/img/pubs/RSEC2023.jpg" alt="Comparison of green-up dates derived from time-lapse and satellite sensors." height="250">
 
@@ -31,7 +31,7 @@ John, C. and Post, E. 2022. Seasonality, niche management, and vertical migratio
 
 ### 2021
 
-John, C., Shilling, F., and Post, E. drpToolkit: An automated workflow for aligning and analyzing vegetation and ground surface time series imagery. *Methods in Ecology and Evolution*. In press.
+John, C., Shilling, F., and Post, E. drpToolkit: An automated workflow for aligning and analyzing vegetation and ground surface time series imagery. *Methods in Ecology and Evolution*. 13(1).
 
 <img src="/img/pubs/MEE2021.png" alt="Aligned time-lapse photos reveal coherent seasonality in vegetation greenness." height="250">
 
