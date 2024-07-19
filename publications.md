@@ -6,6 +6,12 @@ layout: page
 
 The following is a summary of work I led. The most up-to-date list of my publications, including coauthor contributions, can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VPd60tMAAAAJ&view_op=list_works&sortby=pubdate).
 
+### 2024
+
+John, C., Avgar, T., Rittger, K., Smith, J.A., Stephenson, L.W., Stephenson, T.R., and Post, E. 2024. Pursuit and escape drive fine-scale movement variation during migration in a temperate alpine ungulate. *Scientific Reports*. [article](https://www.nature.com/articles/s41598-024-65948-8)
+
+<img src="/img/pubs/SciRep2024.jpg" alt="Conceptual diagram showing that multiple environmental factors may drive selection of elevation by Sierra Nevada bighorn sheep." height="250">
+
 ### 2023
 
 John, C., Kerby, J.T., Stephenson, T.R., and Post, E. 2022. Fine-scale landscape phenology revealed through time-lapse imagery: implications for conservation and management of an endangered migratory herbivore. *Remote Sensing in Ecology and Conservation*. In press. [article](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.331)
