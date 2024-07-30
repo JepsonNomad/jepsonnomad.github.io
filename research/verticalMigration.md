@@ -4,7 +4,7 @@ subtitle: "Vertical migration"
 layout: page
 ---
 
-Animals famously migrate across great distances to forage, avoid environmental stressors and predation, and reproduce. But, they can also move vertically - across elevation in mountains or bathymetry in marine environments - to accomplish similar goals (John and Post 2022 *Ecography*)<https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.05774>. 
+Animals famously migrate across great distances to forage, avoid environmental stressors and predation, and reproduce. But, they can also move vertically - across elevation in mountains or bathymetry in marine environments - to accomplish similar goals ([John and Post 2022 *Ecography*](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.05774)). 
 
 <img src="/img/pubs/Ecog2022a.png" alt="Vertical migrants can be found in all sorts of environments." height="250">
 
@@ -12,7 +12,7 @@ Sierra Nevada bighorn sheep are one such vertical migrant: this endangered subsp
 
 <img src="/img/pubs/SciRep2024.jpg" alt="Variability in spring migration of bighorn sheep." height="250">
   
-In this project (John et al 2024 *Scientific Reports*)<https://www.nature.com/articles/s41598-024-65948-8> we sought to understand the drivers of up- and down-slope movements by Sierra bighorn during their spring migratory season. We expected that heat stress (the Owens Valley can get very hot!) would drive animals uphill, where temperatures are lower, but that storms (which can be dangerous on exposed alpine slopes) would drive animals downhill. We used a dataset of GPS collar data from >300 animals over the course of 20 years, along with a series of environmental layers that index daily variability in heat stress, precipitation, snow cover, and foraging opportunities, in a step selection modeling framework to see how resources and stressors might impact bighorn movement dynamics. 
+In this project ([John et al 2024 *Scientific Reports*](https://www.nature.com/articles/s41598-024-65948-8)) we sought to understand the drivers of up- and down-slope movements by Sierra bighorn during their spring migratory season. We expected that heat stress (the Owens Valley can get very hot!) would drive animals uphill, where temperatures are lower, but that storms (which can be dangerous on exposed alpine slopes) would drive animals downhill. We used a dataset of GPS collar data from >300 animals over the course of 20 years, along with a series of environmental layers that index daily variability in heat stress, precipitation, snow cover, and foraging opportunities, in a step selection modeling framework to see how resources and stressors might impact bighorn movement dynamics. 
 
 <img src="/img/pubs/SciRep2024b.jpg" alt="Environmental variability across the range of Sierra bighorn." height="350">
 
