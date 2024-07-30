@@ -20,7 +20,7 @@ navbar-links:
   Research:
     - Research main: "/research/researchMain"
     - Land-sea connections: "/research/LandSea"
-    - Fine-scale migration: "/research/finescale_migration"
+    - Vertical migration: "/research/verticalMigration"
     - Time-lapse in ecology: "/research/timelapse"
     - Arctic phenology: "/research/AAAR-RegionalVariation"
     - Footage from the field: "/research/FootageFromTheField"
