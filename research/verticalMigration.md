@@ -6,7 +6,7 @@ layout: page
 
 Animals famously migrate across great distances to forage, avoid environmental stressors and predation, and reproduce. But, they can also move vertically - across elevation in mountains or bathymetry in marine environments - to accomplish similar goals ([John and Post 2022 *Ecography*](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.05774)). 
 
-<img src="/img/pubs/Ecog2022a.png" alt="Vertical migrants can be found in all sorts of environments." height="250">
+<img src="/img/pubs/Ecog2022a.png" alt="Vertical migrants can be found in all sorts of environments.">
 
 Sierra Nevada bighorn sheep are one such vertical migrant: this endangered subspecies of bighorn sheep is an iconic mountain ungulate of the American West. These alpine specialists migrate from the Owens Valley to the High Sierra each spring, when snow melts, wildflowers flourish, and bighorn give birth to their young. Uphill spring migration allows bighorn to maximize access to forage while avoiding predation by mountain lions that live at lower elevations. But, different individuals use different migratory strategies: Some stay at high elevations year-round, while others are migratory; and among the migrants, some move from low- to high elevations quickly while others migrate more slowly. Slow migrants may undertake many up-and-down movements throughout their migratory season. 
 
