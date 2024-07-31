@@ -4,12 +4,6 @@ subtitle: "Research"
 layout: page
 ---
   
-*We must accept that time is not completely separate from and independent of space, but is combined with it to form an object called spacetime.*  
-
-<div style="text-align: right"> <i> -Stephen Hawking, in </i> A Brief History of Time </div>
-
----
-
 For a complete list of my publications, refer to my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VPd60tMAAAAJ&view_op=list_works&sortby=pubdate), and for more detail on selected work, check out the links in the Research dropdown menu above. 
   
 <img src="/img/CN-14HQ.gif" alt="Time-lapse of Alpine gold flowering in the high Sierra." height="350">
@@ -20,7 +14,7 @@ Currently, I'm working on a project that connects land use and land use change t
 
 <img src="/img/LandSea.jpg" alt="The island of Moorea situated above a network of Arcropora corals." height="375">
 
-During my PhD, I used time-lapse and satellite pictures to better understand Sierra Nevada bighorn sheep [migration and movement ecology](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05774). Using [time-lapse images](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13730) of plants across the range of Sierra bighorn, I [tracked where and when different food items were available](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.331) to the animals, as well as where and when snow cover precluded food availability. I also paired bighorn sheep movement data (collected using GPS collars) with time-lapse and satellite images to identify how their movements might be affected by changing environmental conditions. Bighorn can be hard to find in their preferred habitat - steep slopes with loose rocks - so GPS tracking collars were super useful for understanding their movement. Check out some footage of this elusive, endangered species in early spring, 2022:
+During my PhD, I used time-lapse and satellite pictures to better understand Sierra Nevada bighorn sheep [migration and movement ecology](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05774). Using [time-lapse images](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13730) of plants across the range of Sierra bighorn, I [tracked where and when different food items were available](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.331) to the animals, as well as where and when snow cover precluded food availability. I also paired bighorn sheep movement data (collected using GPS collars) with time-lapse and satellite images to identify [how their movements might be affected by changing environmental conditions](https://www.nature.com/articles/s41598-024-65948-8). Bighorn can be hard to find in their preferred habitat - steep slopes with loose rocks - so GPS tracking collars were super useful for understanding their movement. Check out some footage of this elusive, endangered species in early spring, 2022:
 
 <iframe src="https://player.vimeo.com/video/689913086" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
