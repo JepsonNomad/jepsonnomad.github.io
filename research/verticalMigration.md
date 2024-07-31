@@ -4,11 +4,11 @@ subtitle: "Vertical migration"
 layout: page
 ---
 
-Animals famously migrate across great distances to forage, avoid environmental stressors and predation, and reproduce. But, they can also move vertically - across elevation in mountains or bathymetry in marine environments - to accomplish similar goals ([John and Post 2022 *Ecography*](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.05774)).
+Animals famously migrate across great distances to forage, avoid stressors, and reproduce. But, they can also move vertically - across elevation in mountains or bathymetry in marine environments - to accomplish similar goals. By moving vertically through "landscapes of relief", vertical migrants can achieve change in many aspects of their local environment, from ambient pressure and temperature, to sun exposure, and predominant plant communities ([John and Post 2022 *Ecography*](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.05774)).
 
 <img src="/img/pubs/Ecog2022a.png" alt="Vertical migrants can be found in all sorts of environments."/>
 
-Sierra Nevada bighorn sheep are one such vertical migrant ([John et al 2024 *Scientific Reports*](https://www.nature.com/articles/s41598-024-65948-8)): these endangered alpine specialists migrate from the Owens Valley to the High Sierra each spring when snow melts, wildflowers flourish, and bighorn give birth to their young. Their uphill spring migration helps them to maximize access to food while avoiding hungry mountain lions that live at lower elevations. But, different individuals use different migratory strategies: Some stay at high elevations year-round, while others are migratory. Even among the migrants, some move from low- to high elevations quickly while others migrate more slowly. Slow migrants may undertake many up-and-down movements throughout their migratory season.
+Sierra Nevada bighorn sheep are one such vertical migrant ([John et al 2024 *Scientific Reports*](https://www.nature.com/articles/s41598-024-65948-8)): these endangered alpine specialists migrate from the Owens Valley to the High Sierra each spring when snow melts, wildflowers flourish, and bighorn give birth to their young. Their uphill spring migration helps them maximize access to food while avoiding hungry mountain lions that live at lower elevations. But, different individuals use different migratory strategies: Some stay at high elevations year-round, while others are migratory. Even among the migrants, some move from low- to high elevations quickly while others migrate more slowly. Slow migrants may undertake many up-and-down movements throughout their migratory season.
 
 <img src="/img/pubs/SciRep2024.jpg" alt="Variability in spring migration of bighorn sheep."/>
 
