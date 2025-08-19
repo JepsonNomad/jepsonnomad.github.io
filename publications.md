@@ -6,6 +6,12 @@ layout: page
 
 The following is a summary of work I led. The most up-to-date list of my publications, including coauthor contributions, can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=VPd60tMAAAAJ&view_op=list_works&sortby=pubdate).
 
+### 2025
+
+John, C. 2025. North American tundras: Imperiled landscapes at a continent’s latitudinal and altitudinal extremes. In *Global Biome Conservation and Global Warming: Impacts on Ecology and Biodiversity*. G. L. Demolin-Leite Sr., P. Török, and J. C. B. Barrionuevo Sr. Editors. Elsevier. [chapter](https://www.nature.com/articles/s41598-024-65948-8)
+
+<img src="/img/maps/John_2025_figure1.jpg" alt="Distribution of tundra biome across North America." height="250">
+
 ### 2024
 
 John, C., Avgar, T., Rittger, K., Smith, J.A., Stephenson, L.W., Stephenson, T.R., and Post, E. 2024. Pursuit and escape drive fine-scale movement variation during migration in a temperate alpine ungulate. *Scientific Reports*. [article](https://www.nature.com/articles/s41598-024-65948-8)
