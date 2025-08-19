@@ -4,7 +4,7 @@ subtitle: "Maps"
 layout: page
 ---
 
-What follow are some cool maps I've made. 
+What follow are some cool maps I've made. They were all produced using open-source tools (almost exclusively R and Inkscape).
 
 ### North American tundras
 
@@ -16,7 +16,7 @@ Arctic and alpine tundra landscapes of North America are found at high latitudes
 
 ### Bioclimatic distribution forecasts for North American Bovidae
 
-<img src="/img/pubs/ECE2022.ong" alt="Distribution of North American bovids." height="500">
+<img src="/img/pubs/ECE2022.png" alt="Distribution of North American bovids." height="500">
 
 Bovids - members of the cattle family - are distributed across open and rugged landscapes of North America. Here we report on end-of-century model projections from a machine learning species distribution modeling exercise using data from museum collections, universities, and community science efforts.
 
@@ -32,7 +32,7 @@ Caribou migratory routes such as those of the Western Arctic herd and Kangerluss
 
 ### Circumarctic distribution of dwarf birch and grey willow
 
-<img src="/img/maps/Post_et_al_2021.jpg" alt="Map of distribution of Betula nana and Salix glauca." height="250">
+<img src="/img/maps/Post_et_al_2021.jpg" alt="Map of distribution of Betula nana and Salix glauca." height="300">
 
 A fusion of multiple data sources to visualize the occurrence records of *Betula nana* and *Salix glauca*.
 
@@ -40,7 +40,7 @@ A fusion of multiple data sources to visualize the occurrence records of *Betula
 
 ### Study site in low-arctic Greenland
 
-<img src="/img/maps/Eikelenboom_et_al_2021.jpg" alt="Map of study site at the calving range of the Kangerlussuaq-Sisimiut Caribou Herd." height="250">
+<img src="/img/maps/Eikelenboom_et_al_2021.jpg" alt="Map of study site at the calving range of the Kangerlussuaq-Sisimiut Caribou Herd." height="350">
 
 Map of the study site at the calving grounds of the Kangerlussuaq-Sisimiut caribou herd, a population whose distribution is bounded by the Davis Strait, Nordre Isortoq, Sukkertoppen Ice Cap, and Greenland's Inland Ice. Kangerlussuaq and Sisimiut indicated by K and S, respectively.
 
@@ -49,7 +49,7 @@ Map of the study site at the calving grounds of the Kangerlussuaq-Sisimiut carib
 
 ### Study site in the eastern Sierra
 
-<img src="/img/maps/RSEC_2023.jpg" alt="Map of study site at the calving range of the Kangerlussuaq-Sisimiut Caribou Herd." height="250">
+<img src="/img/maps/RSEC_2023.jpg" alt="Map of study site at the calving range of the Kangerlussuaq-Sisimiut Caribou Herd." height="300">
 
 Map of the study area in the Sierra Nevada Mountains of California. We used a network of 135 time-lapse cameras (A) distributed across the range of endangered Sierra Nevada Bighorn Sheep (B) to track patterns of snowmelt and plant growth relevant to their migration, spanning from the Owens Valley to the High Sierra (C).
 
