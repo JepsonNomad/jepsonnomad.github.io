@@ -25,7 +25,8 @@ navbar-links:
     - Arctic phenology: "/research/AAAR-RegionalVariation"
     - Footage from the field: "/research/FootageFromTheField"
   Publications: "publications"
-  Maps: "maps"
+    - First-author work: "publications"
+    - Maps: "maps"
   Tutorials:
     - HD Maps with EarthEngine and R: "/tutorials/EE_Maps.html"
     - Intro to ModisTools: "/tutorials/MODISTools_Intro.html"
@@ -80,6 +81,7 @@ social-network-links:
   github: JepsonNomad
   twitter: JepsonNomad
   instagram: JepsonNomad
+  bluesky: JepsonNomad
 
 # Select which share links to show in posts
 share-links-active:
