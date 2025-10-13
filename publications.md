@@ -8,6 +8,10 @@ The following is a summary of work I led. The most up-to-date list of my publica
 
 ### 2025
 
+John, C. and 28 others. 2025. Terrigenous inputs link nutrients regimes to microbial communities in a tropical lagoon. *Limnology and Oceanography*. [in press; preprint](https://www.biorxiv.org/content/10.1101/2025.06.11.659169v1.abstract)
+
+<img src="/img/pubs/LO2025.jpg" alt="Microbial communities diverge in association with lagoon nutrients." height="500">
+
 John, C. 2025. North American tundras: Imperiled landscapes at a continent’s latitudinal and altitudinal extremes. In *Global Biome Conservation and Global Warming: Impacts on Ecology and Biodiversity*. G. L. Demolin-Leite Sr., P. Török, and J. C. B. Barrionuevo Sr. Editors. Elsevier. [chapter](https://www.nature.com/articles/s41598-024-65948-8)
 
 <img src="/img/maps/John_2025_figure1.jpg" alt="Distribution of tundra biome across North America." height="500">
