@@ -8,7 +8,7 @@ Here are some cool maps I've made. They were all produced using open-source tool
 
 ### Tropical lagoon nutrients
 
-<img src="/img/maps/John_et_al_2025.jpg" alt="Lagoon nutrients vary around the island of Moorea, French Polynesia" height="500">
+<img src="/img/maps/John_et_al_2025.jpg" alt="Lagoon nutrients vary around the island of Moorea, French Polynesia" height="300">
 
 Long-term proxies for nitrogen enrichment (a) and instantaneous water column samples (b) are positively correlated (c). Lagoon nutrients are generally higher near shore (d) but vary around the island of Moorea, with evidence of nutrient enrichment at some offshore sites such as reef passes (e).
 
