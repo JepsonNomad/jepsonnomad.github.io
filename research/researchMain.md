@@ -24,7 +24,7 @@ During my PhD, I used time-lapse and satellite pictures to better understand Sie
   <iframe src="https://player.vimeo.com/video/689913086" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-In the past, I have contributed to work ranging from skin cancer to archaeology, but nowadays my work pretty much focuses on ecological responses to climate and land use change.
+In the past, I have contributed to work ranging from skin cancer to archaeology, but nowadays my work pretty much focuses on ecological responses to global change.
 
 <div style="text-align: center;">
   <img src="/img/camWork.jpg" alt="Working on the time-lapse camera network in the Eastern Sierra." height="250"/>
