@@ -12,7 +12,7 @@ Here are some cool maps I've made. They were all produced using open-source tool
 
 Long-term proxies for nitrogen enrichment (a) and instantaneous water column samples (b) are positively correlated (c) in lagoons of Moorea, French Polynesia. Lagoon nutrients are generally higher near shore (d) but vary around the island, with evidence of nutrient enrichment at some offshore sites such as reef passes (e).
 
-[John et al. in press *Limnology and Oceanography*](https://www.biorxiv.org/content/10.1101/2025.06.11.659169v1.abstract)
+[John et al. 2025 *Limnology and Oceanography*](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.70240)
 
 ### North American tundras
 
